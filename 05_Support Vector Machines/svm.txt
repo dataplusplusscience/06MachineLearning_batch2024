@@ -1,0 +1,5 @@
+- Kernels and Types
+- Parameters in SVC and SVR
+- Solvers
+- Gotchas in SVM
+- 
